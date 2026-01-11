@@ -3,24 +3,33 @@ Materialliste
 Sperrholz 3 mm - 1000 mm * 500 mm
 M2-Computerschrauben und Muttern
 1 Pi Pico, gesockelt
-1 Prototypplatine Breadbord lötbar 6.8" * 2.5"
-12 rote LEDs (für ca. 1.8V)
-ODER 12 rote LEDs mit Vorwiderstand für 3 - 6 V
-12 grüne LEDs (für ca. 1.8 V)
-ODER 12 grüne LEDs mit Vorwiderstand für 3 - 6 V
-ggf. 24 Stück Widerstände 330 Ohm
+1 Prototypplatine Breadbord lÃ¶tbar 6.8" * 2.5"
+12 rote LEDs (fÃ¼r ca. 1.8V)
+ODER 12 rote LEDs mit Vorwiderstand fÃ¼r 3 - 6 V
+12 grÃ¼ne LEDs (fÃ¼r ca. 1.8 V)
+ODER 12 grÃ¼ne LEDs mit Vorwiderstand fÃ¼r 3 - 6 V
+ggf. 24 StÃ¼ck WiderstÃ¤nde 330 Ohm
 1 analogen Joystick (Konsolenjoystick)
-6 Gummifüßchen für Kartenhalter
-4 Saugnäpfe zum Schrauben für Joystickgehäuse
+6 GummifÃ¼ÃŸchen fÃ¼r Kartenhalter
+4 SaugnÃ¤pfe zum Schrauben fÃ¼r JoystickgehÃ¤use
 1.20 m Kabel, vieradrig, Verbindung Joystick
 3 passende Kabelschellen
 24 LED-Fassungen
 1 Schalter bis 12 V
+Batteriefach fÃ¼r 3 AAA 1.5V-Batterien
+3 AAA 1.5V-Batterien
 Panzerband (Gewebeklebeband)
-Schrumpfschläuche
-4 Jumperwires für Anschluss Joystick (SW-Anschluss wird nicht benötigt)
-Wires für Anschluss LEDs
-Lötzinn
+SchrumpfschlÃ¤uche
+4 Jumperwires fÃ¼r Anschluss Joystick (SW-Anschluss wird nicht benÃ¶tigt)
+Wires fÃ¼r Anschluss LEDs
+LÃ¶tzinn
+2 kurze StÃ¼cke Holzleiste fÃ¼r Befestigung Batteriefach
+Holzleim fÃ¼r Kleben StÃ¼cke Holzleisten
+
+
+
+
+
 
 
 
