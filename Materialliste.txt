@@ -1,0 +1,26 @@
+Materialliste
+
+Sperrholz 3 mm - 1000 mm * 500 mm
+M2-Computerschrauben und Muttern
+1 Pi Pico, gesockelt
+1 Prototypplatine Breadbord lötbar 6.8" * 2.5"
+12 rote LEDs (für ca. 1.8V)
+ODER 12 rote LEDs mit Vorwiderstand für 3 - 6 V
+12 grüne LEDs (für ca. 1.8 V)
+ODER 12 grüne LEDs mit Vorwiderstand für 3 - 6 V
+ggf. 24 Stück Widerstände 330 Ohm
+1 analogen Joystick (Konsolenjoystick)
+6 Gummifüßchen für Kartenhalter
+4 Saugnäpfe zum Schrauben für Joystickgehäuse
+1.20 m Kabel, vieradrig, Verbindung Joystick
+3 passende Kabelschellen
+24 LED-Fassungen
+1 Schalter bis 12 V
+Panzerband (Gewebeklebeband)
+Schrumpfschläuche
+4 Jumperwires für Anschluss Joystick (SW-Anschluss wird nicht benötigt)
+Wires für Anschluss LEDs
+Lötzinn
+
+
+
